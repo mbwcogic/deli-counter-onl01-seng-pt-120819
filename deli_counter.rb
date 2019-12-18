@@ -7,5 +7,5 @@ def line
     current_line << " #{i}. #{person}"
   end
   puts current_line
-end
+ end
 end
