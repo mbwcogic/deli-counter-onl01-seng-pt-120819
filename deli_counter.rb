@@ -1,2 +1,8 @@
 def line 
-  if 
+  if deli.empty?
+  
+  
+  
+  end
+
+end
