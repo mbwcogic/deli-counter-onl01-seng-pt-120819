@@ -1,7 +1,8 @@
 def line 
   if deli.empty?
     puts "The line is currently empty."
-  else 
+  else
+    current 
   
   end
 
